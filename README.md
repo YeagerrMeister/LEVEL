@@ -1,4 +1,4 @@
-# LevelUp Fitness
+# LEVEL
 
 A gamified fitness tracking app that transforms everyday workouts into an immersive RPG-style journey.
 
